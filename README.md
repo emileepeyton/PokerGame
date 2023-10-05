@@ -6,4 +6,6 @@ Please ensure that maven is installed to build/run project. Using the following 
 command to build: mvn package
 
 Jar file is created in target > PokerGame-1.0.jar 
-command to run jar file: java -jar PokerGame-1.0.jar
+
+# Command to run jar file
+java -jar PokerGame-1.0.jar
